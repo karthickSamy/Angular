@@ -1,0 +1,14 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+.mat-toolbar.mat-primary {
+    background: #4d148c;
+    color: #fff;
+  }
+
+  .boxed {
+    border: 2px solid #4d148c ;
+  }
+  
+  
